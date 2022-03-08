@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+// body{
+//     height: 100vh;
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+// }
+// @mixin btnstyle {
+//     width: 150px;
+//     height: 40px;
+//     font-size: 18px;
+//     color: #fff;
+//     border-radius: 10px;
+//     border: none;
+//     margin: 0px 20px;  
+// }
+// @mixin champ {
+//     transform: scale(1.1);
+//     transition: 0.5s;
+    
+// }
+// .signup{
+//     @include btnstyle();
+//     background-color: red;
+//     transition: 0.6s;
+// }
+// .login{
+//     @include btnstyle();
+//     background-color: dodgerblue;
+// }
+// .signup:hover, .login:hover{
+//     @include champ()
+// }
+
+
+@import "champ";

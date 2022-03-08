@@ -1,0 +1,283 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  width: 1600px;
+}
+
+.div1 {
+  width: 1600px;
+  height: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.png1 {
+  width: 92px;
+  height: 40px;
+  margin-top: 30px;
+  margin-left: 227px;
+}
+
+.ul1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 815px;
+}
+
+.li1 {
+  list-style-type: none;
+  padding: 38px 20px;
+  font-family: monospace;
+  font-size: 18px;
+  color: #000;
+}
+
+.div2 {
+  width: 100%;
+  height: 856px;
+}
+
+.div3 {
+  width: 1500px;
+  height: 100%;
+  margin-left: 50px;
+  background-image: url("./Rectangle 1.png");
+}
+
+.img1 {
+  margin-left: 78px;
+  margin-top: 89px;
+}
+
+.finger {
+  position: absolute;
+  padding-top: 182px;
+  padding-left: 177px;
+  font-family: monospace;
+  font-size: 100px;
+  color: #0b0b0b;
+}
+
+.lisking {
+  position: absolute;
+  padding-left: 275px;
+  padding-top: 322px;
+  font-family: monospace;
+  font-size: 100px;
+  color: #0b0b0b;
+}
+
+.img2 {
+  position: absolute;
+  margin-top: 445px;
+  margin-left: 177px;
+}
+
+.honey {
+  position: absolute;
+  padding-top: 462px;
+  padding-left: 471px;
+  font-family: monospace;
+  font-size: 100px;
+  color: #0b0b0b;
+}
+
+.remo {
+  position: absolute;
+  margin-top: 124px;
+  margin-left: 803px;
+}
+
+.frame {
+  position: absolute;
+  margin-top: 662px;
+  margin-left: 177px;
+}
+
+.x32 {
+  position: absolute;
+  margin-top: 116px;
+}
+
+.div4 {
+  height: 289px;
+  width: 100%;
+}
+
+.our {
+  margin-top: 130px;
+  margin-left: 228px;
+}
+
+.png76 {
+  margin-top: 50px;
+  margin-left: 228px;
+}
+
+.div5 {
+  width: 100%;
+  height: 784px;
+  margin-top: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.div6 {
+  width: 826px;
+  height: 784px;
+}
+
+.div7 {
+  height: 784px;
+  width: 516px;
+  margin-left: 32px;
+}
+
+.created {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 45px;
+  color: #000;
+  padding-top: 220px;
+}
+
+.one {
+  font-family: monospace;
+  font-size: 22px;
+  font-weight: 600;
+  color: #000;
+  padding-top: 30px;
+}
+
+.learn {
+  width: 184px;
+  height: 59px;
+  background-color: chocolate;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-family: monospace;
+  margin-top: 50px;
+}
+
+.div8 {
+  width: 100%;
+  height: 784px;
+  margin-top: 100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.div9 {
+  height: 784px;
+  width: 516px;
+  margin-left: 111px;
+}
+
+.div10 {
+  width: 826px;
+  height: 784px;
+  margin-left: 70px;
+}
+
+.createt {
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 45px;
+  color: #000;
+  padding-top: 220px;
+}
+
+.one {
+  font-family: monospace;
+  font-size: 22px;
+  font-weight: 600;
+  color: #000;
+  padding-top: 30px;
+}
+
+.div12 {
+  width: 100%;
+  height: 435px;
+  margin-top: 100px;
+}
+
+.gro62 {
+  margin-left: 227px;
+}
+
+.div13 {
+  width: 100%;
+  height: 137px;
+  background-image: url("./Rectangle 10.png");
+  margin-top: 130px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.vector3 {
+  width: 63px;
+  height: 28px;
+  margin-top: 54px;
+  margin-left: 229px;
+}
+
+.textt {
+  width: 269px;
+  height: 47px;
+  margin-top: 45px;
+  margin-left: 50px;
+}
+
+.prime {
+  font-family: monospace;
+  font-weight: 500;
+  font-size: 14px;
+  color: #000;
+}
+
+.icon5 {
+  width: 9.87px;
+  height: 19.75px;
+  margin-top: 58px;
+  margin-left: 88px;
+}
+
+.icon4 {
+  width: 23.86px;
+  height: 19.75px;
+  margin-top: 58px;
+  margin-left: 40px;
+}
+
+.icon3 {
+  width: 15.63px;
+  height: 20.57px;
+  margin-top: 58px;
+  margin-left: 40px;
+}
+
+.icon2 {
+  width: 27.15px;
+  height: 18.1px;
+  margin-top: 58px;
+  margin-left: 40px;
+}
+
+.png11 {
+  width: 301px;
+  height: 41.27px;
+  margin-top: 48px;
+  margin-left: 173px;
+}
+/*# sourceMappingURL=vazifa.css.map */

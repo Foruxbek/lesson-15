@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import "div1";
+
+.div4{
+    width: 100%;
+    height: 625px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.div5{
+    width: 940px;
+    height: 100%;
+    background-color: #fff;
+    text-align: center;
+}
+.how{
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 23px;
+    text-transform: uppercase;
+    padding-top: 79px;
+}
+.div6{
+    width: 80px;
+    height: 2px;
+    background-color: rgb(216, 216, 216);
+    margin-top: 28px;
+    margin-left: 410px;
+}
+.div7{
+    width: 940px;
+    height: 363px;
+    background-color:#fff;
+    margin-top: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+.div8{
+    width: 300px;
+    height: 100%;
+    background-color: #fff;
+}
+.div9{
+    width: 100%;
+    height: 219px;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.set{
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: #333333;
+    padding-top: 35px;
+}
+.lorem{
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 20px;
+    color: #333333;
+    line-height: 22px;
+}
+.div10{
+    width: 100%;
+    height: 1469px;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: center;
+}
+.div11{
+    width: 940px;
+    height: 100%;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+.recent{
+    font-family: monospace;
+    font-size: 23px;
+    text-transform: uppercase;
+    color: #333333;
+    padding-top: 79px;
+}
+.div12{
+    width: 80px;
+    height: 2px;
+    background-color: #585757;
+    margin-top: 28px;
+    margin-left: 430px;
+}
+.div13{
+    height: 384px;
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-top: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+.div14{
+    width: 300px;
+    height: 100%;
+    background-color: #fff;
+}
+.div15{
+    width: 100%;
+    height: 300px;
+}
+.wods{
+    font-family: monospace;
+    font-size: 16px;
+    color: #333333;
+    padding-top: 19px;
+}
+.phot{
+    font-family: monospace;
+    font-size: 14px;
+    color: #333333;
+    padding-top: 4px;
+}
+.div16{
+    height: 384px;
+    width: 100%;
+    background-color: #f5f5f5;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.div17{
+    height: 616px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+.div18{
+    width: 940px;
+    height: 100%;
+    background-color: #fff;
+    text-align: center;
+}
+.time{
+    padding-top: 79px;
+    color: #333333;
+    font-family: monospace;
+    font-size: 23px;
+    letter-spacing: 3px;
+}
+.div20{
+    width: 80px;
+    height: 2px;
+    background-color: #8b8b8b;
+    margin-left: 425px;
+    margin-top: 29px;
+}
+.div19{
+    width: 100%;
+    height: 318px;
+    margin-top: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+.div21{
+    width: 220px;
+    height: 100%;
+}
+.div22{
+    width: 100%;
+    height: 220px;
+}
+.div23{
+    width: 100%;
+    height: 511px;
+    background-color: #f5f5f5;
+}
+.pngv{
+    padding-left: 729px;
+    padding-top: 69px;
+}
+.div24{
+    width: 100%;
+    height: 218px;
+    background-color: #f5f5f5;
+    margin-top: 65px;
+    display: flex;
+}
+.div25{
+    width: 338px;
+    height: 100%;
+    background-color: #f5f5f5;
+    margin-left: 328px;
+    text-align: center;
+}
+.ilove{
+    font-size: 26px;
+    color: #333333;
+}
+.psrc{
+    padding-top: 24px;
+}
+.von{
+    font-family: monospace;
+    font-size: 14px;
+    color: #ababab;
+    padding-top: 10px;
+}
+.div26{
+    width: 2px;
+    height: 218px;
+    background-color: #797979;
+    margin-left: 100px;
+}
+.div27{
+    width: 338px;
+    height: 100%;
+    background-color: #f5f5f5;
+    margin-left: 100px;
+    text-align: center;
+}
+@import"./oxirgi"

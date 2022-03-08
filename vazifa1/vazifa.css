@@ -1,0 +1,509 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.div1 {
+  width: 100%;
+  height: 106px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #ffffff;
+}
+
+.img1 {
+  width: 65px;
+  height: 70px;
+  margin-left: 250px;
+  margin-top: 20px;
+}
+
+.minimal {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #333;
+  font-size: 22px;
+  font-weight: 550;
+  padding-top: 31px;
+  padding-left: 18px;
+}
+
+.ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 41px;
+  padding-left: 450px;
+}
+
+.text {
+  list-style-type: none;
+  margin: 0px 14px;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 14px;
+  font-weight: 550;
+}
+
+.div2 {
+  width: 100%;
+  height: 391px;
+  background-image: url("./IMAGE (11).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.making {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 44px;
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 105px;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+.our {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 44px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+
+.let {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: #fff;
+  padding-top: 50px;
+}
+
+.div3 {
+  width: 100%;
+  height: 289px;
+  background-color: #fefec9;
+  text-align: center;
+}
+
+.minimalist {
+  color: #47474f;
+  padding-top: 60px;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 30px;
+}
+
+.and {
+  color: #47474f;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 30px;
+}
+
+.years {
+  color: #47474f;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 30px;
+}
+
+.getin {
+  width: 159px;
+  height: 53px;
+  border-radius: 5px;
+  margin-top: 50px;
+  color: #47474F;
+  font-size: 16px;
+  background: transparent;
+}
+
+.div4 {
+  width: 100%;
+  height: 625px;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.div5 {
+  width: 940px;
+  height: 100%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.how {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 23px;
+  text-transform: uppercase;
+  padding-top: 79px;
+}
+
+.div6 {
+  width: 80px;
+  height: 2px;
+  background-color: #d8d8d8;
+  margin-top: 28px;
+  margin-left: 410px;
+}
+
+.div7 {
+  width: 940px;
+  height: 363px;
+  background-color: #fff;
+  margin-top: 43px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.div8 {
+  width: 300px;
+  height: 100%;
+  background-color: #fff;
+}
+
+.div9 {
+  width: 100%;
+  height: 219px;
+  background-color: #f5f5f5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.set {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  color: #333333;
+  padding-top: 35px;
+}
+
+.lorem {
+  font-family: sans-serif;
+  font-size: 15px;
+  padding-top: 20px;
+  color: #333333;
+  line-height: 22px;
+}
+
+.div10 {
+  width: 100%;
+  height: 1469px;
+  background-color: #f5f5f5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.div11 {
+  width: 940px;
+  height: 100%;
+  background-color: #f5f5f5;
+  text-align: center;
+}
+
+.recent {
+  font-family: monospace;
+  font-size: 23px;
+  text-transform: uppercase;
+  color: #333333;
+  padding-top: 79px;
+}
+
+.div12 {
+  width: 80px;
+  height: 2px;
+  background-color: #585757;
+  margin-top: 28px;
+  margin-left: 430px;
+}
+
+.div13 {
+  height: 384px;
+  width: 100%;
+  background-color: #f5f5f5;
+  margin-top: 43px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.div14 {
+  width: 300px;
+  height: 100%;
+  background-color: #fff;
+}
+
+.div15 {
+  width: 100%;
+  height: 300px;
+}
+
+.wods {
+  font-family: monospace;
+  font-size: 16px;
+  color: #333333;
+  padding-top: 19px;
+}
+
+.phot {
+  font-family: monospace;
+  font-size: 14px;
+  color: #333333;
+  padding-top: 4px;
+}
+
+.div16 {
+  height: 384px;
+  width: 100%;
+  background-color: #f5f5f5;
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.div17 {
+  height: 616px;
+  width: 100%;
+  background-color: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.div18 {
+  width: 940px;
+  height: 100%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.time {
+  padding-top: 79px;
+  color: #333333;
+  font-family: monospace;
+  font-size: 23px;
+  letter-spacing: 3px;
+}
+
+.div20 {
+  width: 80px;
+  height: 2px;
+  background-color: #8b8b8b;
+  margin-left: 425px;
+  margin-top: 29px;
+}
+
+.div19 {
+  width: 100%;
+  height: 318px;
+  margin-top: 43px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.div21 {
+  width: 220px;
+  height: 100%;
+}
+
+.div22 {
+  width: 100%;
+  height: 220px;
+}
+
+.div23 {
+  width: 100%;
+  height: 511px;
+  background-color: #f5f5f5;
+}
+
+.pngv {
+  padding-left: 729px;
+  padding-top: 69px;
+}
+
+.div24 {
+  width: 100%;
+  height: 218px;
+  background-color: #f5f5f5;
+  margin-top: 65px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.div25 {
+  width: 338px;
+  height: 100%;
+  background-color: #f5f5f5;
+  margin-left: 328px;
+  text-align: center;
+}
+
+.ilove {
+  font-size: 26px;
+  color: #333333;
+}
+
+.psrc {
+  padding-top: 24px;
+}
+
+.von {
+  font-family: monospace;
+  font-size: 14px;
+  color: #ababab;
+  padding-top: 10px;
+}
+
+.div26 {
+  width: 2px;
+  height: 218px;
+  background-color: #797979;
+  margin-left: 100px;
+}
+
+.div27 {
+  width: 338px;
+  height: 100%;
+  background-color: #f5f5f5;
+  margin-left: 100px;
+  text-align: center;
+}
+
+.div28 {
+  width: 100%;
+  height: 517px;
+  background-image: url("./IMAGE (30).png");
+  text-align: center;
+}
+
+.letsin {
+  color: #333;
+  font-family: monospace;
+  font-size: 23px;
+  padding-top: 79px;
+  letter-spacing: 3px;
+}
+
+.div29 {
+  width: 100%;
+  height: 234px;
+  margin-top: 93px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.div30 {
+  width: 195px;
+  height: 100%;
+  margin: 0px 60px;
+  text-align: center;
+}
+
+.meetus {
+  color: #333;
+  font-family: monospace;
+  font-size: 16px;
+  padding-top: 26px;
+  padding-bottom: 20px;
+}
+
+.juniper {
+  font-size: 17px;
+  color: #212121;
+  font-family: sans-serif;
+}
+
+.div31 {
+  width: 100%;
+  height: 639px;
+  background-color: #000;
+}
+
+.input {
+  width: 564px;
+  height: 57px;
+  background-color: #2e2e2e;
+  outline: none;
+  border: none;
+  font-size: 17px;
+  font-style: italic;
+  text-indent: 31px;
+  margin-top: 69px;
+  margin-left: 478px;
+  color: #fff;
+}
+
+.div31 > :nth-child(2), :nth-child(3), :nth-child(4), :nth-child(5) {
+  margin-top: 0px;
+}
+
+.div31 > :nth-child(2) {
+  background-color: #333;
+}
+
+.btn {
+  width: 210px;
+  height: 53px;
+  background: transparent;
+  border: 2px solid #8BCAC3;
+  color: #8BCAC3;
+  font-style: italic;
+  margin-left: 654px;
+  margin-top: 21px;
+}
+
+.png34 {
+  margin-top: 37px;
+  margin-left: 739px;
+}
+
+.madein {
+  font-family: monospace;
+  font-size: 15px;
+  color: rgba(255, 255, 255, 0.4);
+  padding-left: 555px;
+  padding-top: 14px;
+}
+/*# sourceMappingURL=vazifa.css.map */

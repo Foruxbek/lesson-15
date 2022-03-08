@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.champ {
+  width: 100px;
+  height: 200px;
+  background-color: red;
+}
+/*# sourceMappingURL=style.css.map */
